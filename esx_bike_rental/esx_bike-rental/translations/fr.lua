@@ -1,4 +1,4 @@
-Locales['en'] = {
+Locales['fr'] = {
 	['press_e'] = 'appuies sur ~INPUT_CONTEXT~ pour louer un vélo.',
 	['storebike'] = 'appuies sur ~INPUT_CONTEXT~ pour prendre le vélo.',	
 	['biketitle'] = 'vélo loué',
