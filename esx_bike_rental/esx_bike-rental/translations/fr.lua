@@ -17,8 +17,8 @@ Locales['fr'] = {
 	
 	['bikes'] = '[Vélo]',
 	
-	['tenue_civil'] = '<span style="color:yellow;">Citizen Outfit</span>',
-	['tenue1'] = '<span style="color:green;">Bike Outfit</span> <span style="color:red;">200$</span>',
-	['tenue2'] = '<span style="color:green;">Bike Outfit 2</span> <span style="color:red;">200$</span>',
-	['tenue3'] = '<span style="color:green;">Bike Outfit 3</span> <span style="color:red;">200$</span>',
+	['outfit_citizen'] = '<span style="color:yellow;">tenue civil </span>',
+	['outfit'] = '<span style="color:green;">Tenue de vélo 1</span> <span style="color:red;">200$</span>',
+	['outfit2'] = '<span style="color:green;">Tenue de vélo 2</span> <span style="color:red;">200$</span>',
+	['outfit3'] = '<span style="color:green;">Tenue de vélo 3</span> <span style="color:red;">200$</span>',
 }
